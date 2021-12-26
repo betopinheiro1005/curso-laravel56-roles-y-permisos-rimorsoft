@@ -1,3 +1,33 @@
+# Curso Laravel 5.6 - Roles y Permisos
+## Rimorsoft (Italo Morales)
+
+### [Vídeos do curso](https://www.youtube.com/watch?v=EwqZgypiKYk&list=PLhCiuvlix-rSgQNLIl7Qg2KbQni3fz-ea)
+
+### Lista de aulas  
+
+Aula 2 - Instalação de pacotes  
+Aula 3 - Estrutura base de um sistema com regras e permissões  
+Aula 4 - Definição de permissões do sistema  
+Aula 5 - Factory, migrations, models, controllers  
+Aula 6 - Seeders  
+Aula 7 - Middleware de Papéis e Permissões  
+Aula 8 - Rotas e atribuição de permissões  
+Aula 9 - Ocultar botões se não há permissões  
+Aula 10 - Aplicando roles e permissions  
+Aula 11 - Ocultar ou mostrar botões segundo a permissão atribuída  
+Aula 12 - Métodos de um controlador - Injeção de método  
+Aula 13 - Vista form e show | Debug de erros  
+Aula 14 - Formulário criar e editar do módulo de produtos  
+Aula 15 - Módulo de usuário - index  
+Aula 16 - Módulo de usuário - show, destroy, edit  
+Aula 17 - Desenho de edição de usuários (Listagem de roles)  
+Aula 18 - Atribuição de roles a usuários  
+Aula 19 - Desenho do módulo Roles  
+Aula 20 - Gravar e editar roles e permissions  
+Aula 21 - Atribuindo permissões a partir das rotas e do controlador  
+
+##
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
@@ -6,6 +36,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
+
+##
 
 ## About Laravel
 
