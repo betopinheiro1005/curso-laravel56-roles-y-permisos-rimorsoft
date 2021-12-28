@@ -1,10 +1,15 @@
 # Curso Laravel 5.6 - Roles y Permisos
 ## Rimorsoft (Italo Morales)
 
-### [Vídeos do curso](https://www.youtube.com/watch?v=EwqZgypiKYk&list=PLhCiuvlix-rSgQNLIl7Qg2KbQni3fz-ea)
+### Instalação de dependências
 
-### Lista de aulas  
+```bash
+composer install
+```
 
+### Lista de aulas - [Vídeos do curso](https://www.youtube.com/watch?v=EwqZgypiKYk&list=PLhCiuvlix-rSgQNLIl7Qg2KbQni3fz-ea)  
+
+Aula 1 - Introdução  
 Aula 2 - Instalação de pacotes  
 Aula 3 - Estrutura base de um sistema com regras e permissões  
 Aula 4 - Definição de permissões do sistema  
